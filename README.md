@@ -1,0 +1,4 @@
+- `app.py` : Le script principal contenant l'interface utilisateur Streamlit.
+- `requirements.txt` : La liste des dépendances Python requises pour exécuter l'application en ligne.
+- `best_linear_regression_model.joblib` : Le modèle de Régression Linéaire entraîné et sauvegardé.
+- `robust_scaler.joblib` : Le scaler de mise à l'échelle robuste des données d'entrée.
